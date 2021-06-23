@@ -5,7 +5,7 @@
 - :cocktail: [Blog](https://xx-xx-xx.vercel.app)
 - :fishing_pole_and_fish:  -->
 
-![](https://gitee.com/xx-xx-xx/images/raw/master/img/42F01EB612213FC33DC5FCB56B0B6A4A.png)
+[![](https://gitee.com/xx-xx-xx/images/raw/master/img/42F01EB612213FC33DC5FCB56B0B6A4A.png)](https://xx-xx-xx.vercel.app/)
 
 <!--
 **xx-xx-xx/xx-xx-xx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
